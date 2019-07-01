@@ -1,0 +1,28 @@
+# MyWork
+Linklist Operation In my Code Consist.
+
+a)Normal add elements in the list
+b)Normal show elemnts in the list
+c)Search an elements in the list
+d)Delete an elements in the list
+e)Reverse elements in the list
+
+f) implements Queue using link list;
+ 
+ i)Enqueu opearation
+ ii)Dequeue operation
+ iii)Print operation
+ iv)Peak operation 
+
+g)implements Stack using link list;
+ 
+ i)Push opearation
+ ii)Pop operation
+ iii)Print operation
+ iv)Peak operation 
+
+
+There are Three class in my code
+1.Mylist.java (Main Class)
+2.Node.java (description of Node characterestic)
+3.Linklist.java (all the operation and functionality done)
